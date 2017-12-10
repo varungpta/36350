@@ -1,1 +1,1 @@
-cat("Hello Extra-terrestrials! Please enjoy your visit to earth. We have good food if you eat it, and yah")
+cat("Hello Extra-terrestrials! Please enjoy your visit to earth. We'd love to know your intentions, and hope you come in peace! Additionally, we'd love it if you'd share the technology you used to get here, and hope you can actually understand this message. We'd love to share with you some of our culture and ")
